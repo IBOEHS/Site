@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <title>IBOEHS - FAQ</title>
+
+  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link href="css/styles.css" rel="stylesheet">
+  <link href="css/responsive.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <link href="css/owl.carousel.min.css" rel="stylesheet">
+
+  <!--Logo Carousel-->
+  <link rel="stylesheet" type="text/css" href="image-ticker/stylesheets/stylesheet.css" media="screen">
+  <link rel="stylesheet" type="text/css" href="image-ticker/stylesheets/carouselTicker.css" media="screen">
+
+
+
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body>
+
+  <nav class="social">
+    <ul>
+      <li class="facebook_li"><a href="" target="_blank" title="">Facebook <i class="fa fa-facebook"></i></a></li>
+
+      <li class="twitter_li"><a href="" target="_blank" title="">Twitter <i class="fa fa-twitter"></i></a></li>
+
+      <li class="ln_li"><a href="" target="_blank" title="web-designers-kerala">linkedin <i
+            class="fa fa-linkedin"></i></a></li>
+
+      <li class="wapp_li"><a href="" target="_blank" title="web-designers-kerala">Whatsapp <i
+            class="fa fa-whatsapp"></i></a></li>
+
+
+    </ul>
+  </nav>
+
+<!--right-btn-strip-->
+
+
+  <div id="navbar">
+    <nav class="navbar navbar-default navbar-static-top" role="navigation">
+      <div class="container">
+
+        <div class="row">
+          <div class="col-md-12">
+
+            <div class="navbar-header">
+                <div class="row">
+              <div class="col-lg-6 col-md-6 col-xs-12  ">
+              <a class="navbar-brand" href="index.php">
+              <img src="images/logo.png" class="logo img-responsive" alt="">
+              </a>
+            </div>
+            <div class="col-lg-6 col-md-6 col-xs-12 hidden-xs hidden-sm " style="display: inline-flex;">
+              <a class="navbar-brand" href="#">
+              <img src="images/iso-logo.png" class="iso-logo img-responsive" alt="">
+              </a>
+               <a class="navbar-brand" href="#">
+              <img src="images/iso-logo1.png" class="iso-logo img-responsive" alt="" >
+              </a>
+              
+            </div>
+            </div>
+            <div class="row">
+                            <div class="col-xs-12 col-sm-12">
+
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+          </div>
+          </div>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar-collapse-1">
+              <ul class="nav navbar-nav ">
+
+                <li class="dropdown">
+                  <a href="index.php" >Home</a>
+                  
+                </li>
+
+
+
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">About Us <i class="fa fa-angle-down"
+                      aria-hidden="true"></i></a>
+                  <ul class="dropdown-menu">
+
+                    <!--<li class="dropdown dropdown-submenu">-->
+                    <!--  <a href="#" class="dropdown-toggle" data-toggle="dropdown">About </a>-->
+                      <!--<ul class="dropdown-menu">-->
+                      <!--    <li><a href="structure.php">	International Presence</a></li>-->
+                      <!--  <li><a href="board-of-governors.php">	Board Members</a></li>-->
+                        
+                      <!--  <li><a href="accreditation-details.php">	Accreditation & Certifications</a></li>-->
+                      <!--  <li><a href="media.php">		Media</a></li>-->
+                      <!--</ul>-->
+                    <!--</li>-->
+                    <li><a href="aboutus.php"> Who We Are</a></li>
+                    <li><a href="international.php"> International Presence</a></li>
+                    <li><a href="board-of-governors.php">	Board Governors</a></li>
+                    <li><a href="accreditation-details.php">	Accreditation & Certifications</a></li>
+                    
+                    <!--<li><a href="code-of-ethics.php"> Code of Ethics</a></li>-->
+                  </ul>
+                </li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Why IBOEHS<i class="fa fa-angle-down"
+                      aria-hidden="true"></i></a>
+                  <ul class="dropdown-menu">
+
+                    <li><a href="merits.php"> Merits</a></li>
+                    <li><a href="what-employers-says.php"> What employers says</a></li>
+                    <li><a href="what-students-says.php"> What students says</a></li>
+<li><a href="our-policies.php"> Policy</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programes <i class="fa fa-angle-down"
+                      aria-hidden="true"></i></a>
+                  <ul class="dropdown-menu">
+                      
+                                         <li><a href="health.php?id=ENVIRONMENTAL"> ENVIRONMENTAL</a></li>
+                                       <li><a href="health.php?id=HEALTH"> HEALTH</a></li>
+                                       <li><a href="health.php?id=SAFETY "> SAFETY </a></li>
+                                       <li><a href="health.php?id=NEW QUALIFICATION DEVELOPMENT"> NEW QUALIFICATION DEVELOPMENT</a></li>
+                                       <li><a href="health.php?id="> </a></li>
+                   
+                  </ul>
+                </li>
+                 <li><a href="ehsaudit.php"> EHS AUDIT & Certification</a></li>
+                <li><a href="where-to-study.php"> WHERE TO STUDY </a></li>
+
+                
+
+                <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Become an ATP <i class="fa fa-angle-down"
+                      aria-hidden="true"></i></a>
+                  <ul class="dropdown-menu">
+
+                    <li><a href="how-to-become-an-atp.php"> How to Become an ATP</a></li>
+                    <li><a href="terms-and-conditions.php"> Terms and Conditions</a></li>
+                    <li><a href="faq.php"> FAQ</a></li>
+                    <li><a href="renewal.php"> Renewal</a></li>
+
+                  </ul>
+                </li>
+                <!--<li><a href="membership.php"> MEMBERSHIP </a></li>-->
+                <li><a href="contact-us.php"> Contact Us</a></li>
+              </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+
+          </div>
+          <!--col-md-12-->
+        </div>
+        <!--row-->
+
+
+
+
+
+      </div>
+      <!--container-->
+    </nav>
+  </div>
+
+
+  <!--<section class="banner_area banner_one">-->
+  <!--  <div class="container">-->
+  <!--    <div class="content-align">-->
+  <!--      <div class="content-center">-->
+  <!--        <div class="banner_content">-->
+  <!--          <h3>Faq</h3>-->
+  <!--        </div>-->
+
+  <!--      </div>-->
+  <!--    </div>-->
+  <!--  </div>-->
+  <!--</section>-->
+
+  <div class="banner_link">
+    <div class="container">
+      <div class="abnner_link_inner">
+        <a class="active" href="index.php">Home</a>
+        <a href=""> | </a>
+        <a href="">Faq</a>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+<section class="accreditation-sec">
+    <div class="container">
+
+
+        <div class="row">
+            <div class="col-md-12 vision-text">
+                
+
+      <div class="container">
+                                        <div class="col-sm-12 que-box contnt-box">
+                        <h3><span>What do IBOEHS provide?</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">IBOEHS provides various registered and nonregistered certifications to safety professionals considering their educational qualification, experience, performance, and achievements in qualifying examinations.&nbsp;</span></p>
+
+<h3><span>What are the registered certifications Provided by IBOEHS?&nbsp;</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">IBOEHS provide,</span></p>
+
+<ul>
+	<li>Registered Safety Officer (RSO)&nbsp;</li>
+	<li>Registered Safety Manager (RSM)&nbsp;</li>
+	<li>Registered Safety Professional Certification (RSP)&nbsp;</li>
+	<li>Hospital Food Safety Manger&nbsp;</li>
+	<li>Registered Mine Safety Officer&nbsp;</li>
+	<li>Registered Environmental Officer(REO) -&nbsp;</li>
+	<li>Registered Airport Safety Officer (RASO) -&nbsp;</li>
+	<li>Registered Infection control Manager -</li>
+	<li>Registered Health Care Safety Officer (RHSO)&nbsp;</li>
+	<li>Registered Radiation Safety Officer (RASO) -</li>
+</ul>
+
+<h3>What are the non-registered certificates offered by IBOEHS?</h3>
+
+<ul>
+	<li>IBOEHS-USA OSHA - 30 Hrs (General Industry Standard)&nbsp;</li>
+	<li>IBOEHS-USA OSHA 30 Hrs (Construction Industry Standard)&nbsp;</li>
+	<li>GCC Safety Regulation&nbsp;</li>
+	<li>Indian Safety Regulation&nbsp;</li>
+	<li>IBOEHS Roustabout certificate&nbsp;</li>
+</ul>
+
+<h3>What is the Postgraduate Diploma Program offered by IBOEHS?<h3>
+
+<p>Postgraduate Diploma in Construction Safety management&nbsp;</p>
+
+<h3>What is the EHS Diploma Program offered by IBOEHS?</h3>
+
+<p>IBOEHS Environmental Health and Safety (EHS) Diploma</p>
+
+<h3>What is the Industrial Safety Diploma Program offered by IBOEHS?</h3>
+
+<p>IBOEHS Diploma in Industrial Safety Management (DISM)</p>
+
+<h3>What is the other program offered by IBOEHS?</h3>
+
+<p>Train The Trainer Program (TTT)&nbsp;</p>
+
+
+
+<h3><span>What are the benefits of having IBOEHS certification?</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">Many USA, Canada, Madagascar, Middle East, and Southeast Asia-based organizations respect and follow OSHA Standards. Such companies prefer candidates with knowledge and qualification based on OSHA Standards even though the individual has other international capabilities. So the employment opportunity for the individual will be multiplied.</span></p>
+
+<h3><span>How to book an examination?</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">The authorized training provider within and outside US territory shall book an examination with IBOEHS, along with students&#39; fees and required documents.</span></p>
+
+<h3>How to make payment to IBOEHS?&nbsp;</h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">All centers operating within the United States, Europe, west indies, and Pakistan shall make all their fees to US bank accounts.&nbsp;</span></p>
+
+<p style="text-align:justify"><span style="color:#0E101A">&nbsp;All other centers shall make their payments to the IBOEHS support office in India.&nbsp;</span></p>
+
+<h3><span>Who will conduct the examination?</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">IBOEHS</span></p>
+
+<h3>What is the type and mode of examination?</h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">Type - Multiple-choice questions&nbsp;</span></p>
+
+<p style="text-align:justify"><span style="color:#0E101A">Mode - Online examination&nbsp;</span></p>
+
+<h3>What are the requirements for attending the IBOEHS online examination?</h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">The center/leaner must have a CAM-abled computer with a high-speed internet facility.&nbsp;</span></p>
+
+<h3>What if my Center or I have no high-speed internet facility to attend an online examination?&nbsp;</h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">The Center can obtain an online examination waiver from IBOEHS in advance to conduct a classroom examination. However Center should submit an affidavit along with each examination packet.&nbsp;</span></p>
+
+<h3>Who will be evaluating the candidate&#39;s answer sheets?</h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">IBOEHS nominated examiners&nbsp;</span></p>
+
+<h3>Within how many days of examination, the Center will receive the examination result?.&nbsp;</h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">On or before 15 days of examination&nbsp;</span></p>
+
+<h3><span>Who will receive the examination result?&nbsp;</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">The respective authorized training provider. Under no circumstances IBOEHS will deal with the students directly except in emergencies.&nbsp;</span></p>
+
+<h3><span>Who will provide course materials to the students?</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">The Authorised training provider shall provide Course Material to their respective students. However, IBOEHS will be providing a soft copy of the course material and hall tickets to the Centre directly.&nbsp;</span></p>
+
+<h3><span>How many days before the Center should book an examination with IBOEHS?.&nbsp;</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">At least ten days in advance&nbsp;</span></p>
+
+<h3><span>What happens if a student fails in any examination?&nbsp;</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">Students can take re-examination by paying USD 50 per attempt.&nbsp;</span></p>
+
+<h3><span>Is there any annual audit by IBOEHS to authorized training providers?</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">Yes, all centers will be audited by IBOEHS once a year.&nbsp;</span></p>
+
+<h3>What are documents generally sought for during an annual center audit?&nbsp;</h3>
+
+<ol start="1">
+	<li>Evidence of classroom training provided&nbsp;</li>
+	<li>CVs &amp; qualification certificates of all tutors&nbsp;</li>
+	<li>Students feedback&nbsp;</li>
+	<li>students attendance record&nbsp;</li>
+	<li>Students feedback records&nbsp;</li>
+	<li>Safety, quality, and environmental policies&nbsp;</li>
+	<li>Examination policies and procedures&nbsp;</li>
+	<li>Malpractice policy&nbsp;</li>
+</ol>
+
+<h3><span>Can a student or employer verify the certificate online?&nbsp;</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">Yes, it can be verified from the IBOEHS website.</span></p>
+
+<h3><span>When to renew the registered status of a leaner?&nbsp;</span></h3>
+
+<p>All Registered certificate holders should renew their registered status every 24months through their authorized training provider or IBOEHS directly.&nbsp;</p>
+
+<h3>How to renew the registered status of a leaner?</h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">To renew the registered status, the leaner must write to Info@iboehs.org&nbsp;</span></p>
+
+<p style="text-align:justify"><span style="color:#0E101A">IBOEHS shall raise an invoice for USD 50/- On receipt of the invoice, the learner must submit the following to IBOEHS.&nbsp;</span></p>
+
+<ol start="1">
+	<li>Evidence of 16 hours continuous education.</li>
+	<li>Copy of old valet card&nbsp;</li>
+	<li>A renewal fee of USD 50/- payable against status renewal.</li>
+</ol>
+
+<h3>What happens if the leaner do not renew their registered status?&nbsp;</h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">Online certificate verification facility will not be available for cardholder fails to renew their status,&nbsp;</span></p>
+
+<h3>What is the benefit of renewing the registered status?</h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">All registered Certificate holders will receive IBOEHS Online news latter for free. In addition, renewed registered certificate holders will be entitled to have 10% off on any future IBOEHS courses fee. They/employers will be eligible to verify their certificate online anytime.&nbsp;</span></p>
+
+
+
+<h3><span>How much can an authorized training provider charge from students for each course?&nbsp;</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">IBOEHS has no control over such issues, and the provider has got complete freedom to decide and fix the fee for their institute; however, the provider should pay the prescribed fee to IBOEHS.&nbsp;</span></p>
+
+<p style="text-align:justify"><span style="color:#0E101A">To know more about the fee payable by ATP, please get in touch with IBOEHS at. info@iboehs.org&nbsp;</span></p>
+
+
+
+<h3>Is the fee paid to IBOEHS is refundable?&nbsp;</h3>
+
+
+
+<p style="text-align:justify"><span style="color:#0E101A">Due to unavoidable circumstances, if IBOEHS cancels the exam, the total fee shall be adjusted against the next possible examination date.&nbsp;</span></p>
+
+<h3>How can students replace their certificates in case of loss or damage?&nbsp;</h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">Certificate/Valet or both can be replaced by paying USD 50/- to IBOEHS. However, the leaner should approach their respective authorized training providers to replace the certificate/Valet card.&nbsp;&nbsp;</span></p>
+
+<p style="text-align:justify"><span style="color:#0E101A">Leaners who can&#39;t locate their authorized training provider can write to Info@iboehs.org to replace their valet card or certificate.&nbsp;</span></p>
+
+
+
+<h3><span>What is the limit of jurisdiction of IBOEHS?&nbsp;</span></h3>
+
+<p style="text-align:justify"><span style="color:#0E101A">All disputes about IBOEHS shall be under the sole jurisdiction of the federal court of Arizona, USA.&nbsp;</span></p>
+
+<h3> How a provider can contact IBOEHS & Support office </h3>
+
+<p>IBOEHS and support office can be sole provider can be reached on the following address</p>
+
+<p><b>IBOEHS</b></br>
+1818 W.Washington</br>
+O Fallon</br>
+Illinois,62269</br>
+USA</br>
+www.iboehs.org</p>
+
+<p><b>IBOEHS- Support office in India </b></br>
+International Board of Environmental Health and safety 
+(Support Office) </br>
+Clovers Safety services </br>
+Clovers Blue tower</br>
+Thengod post, Kakkanad</br>
+Cochin-682030</br>
+Email:info@iboehs.org </br>
+Mobile +91 90723 41373, +91 98957 51373 </p>
+                  
+                   
+                   
+                   
+                    </div>
+
+
+
+
+
+                                    </div>
+
+
+            </div>
+        </div>
+       
+    </div>
+</div>
+</section>
+
+
+
+
+
+
+  <div class="clearfix"></div>
+
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2831.8348086743044!2d-106.94314568591038!3d44.78417298658267!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5335f009b7255555%3A0xef97aa92cd680505!2s1309%20Coffeen%20Ave%20STE%201200%2C%20Sheridan%2C%20WY%2082801%2C%20USA!5e0!3m2!1sen!2sin!4v1623586627324!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<div class="rs-quick-contact">
+        <div class="inner-part text-center mb-50">
+            <h2 class="title mb-15">Enquiry Form</h2>
+        </div>
+
+    
+        <form  method="post" action="contact_insert.php" id="contact" name="contact">
+            <div class="row">
+                <div class="col-lg-6 mb-35 col-md-12">
+                    <input class="from-control" type="text" id="name" name="name" placeholder="Name" data-validetta="required">
+                </div> 
+                <div class="col-lg-6 mb-35 col-md-12">
+                    <input class="from-control" type="text" id="email" name="email" placeholder="Email" data-validetta="required">
+                </div>   
+                <div class="col-lg-6 mb-35 col-md-12">
+                    <input class="from-control" type="text" id="phone" name="phone" placeholder="Phone" data-validetta="required">
+                </div>   
+                <div class="col-lg-6 mb-35 col-md-12">
+                    <input class="from-control" type="text" id="subject" name="subject" placeholder="Subject" data-validetta="required">
+                </div>
+             
+                <div class="col-lg-12 mb-50">
+                    <textarea class="from-control" rows="5" id="message" name="message" placeholder=" Message" data-validetta="required"></textarea>
+                </div>
+            </div>
+            <div class="form-group mb-0">
+                <input class="btn-send" type="submit" value="Submit">
+            </div>       
+        </form>
+   </div>  <div class="clearfix"></div>
+
+
+
+  <footer id="rs-footer" class="rs-footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-widget md-mb-50">
+            <h4 class="widget-title">How to Become an ATP </h4>
+            <ul class="site-map list-unstyled">
+                <li><a href="atp.php"> ATP</a></li>
+              <li><a href="how-to-become-an-atp.php">How to Become an ATP</a></li>
+              <li><a href="faq.php">Faq</a></li>
+              <li><a href="renewal.php">Renewal</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-widget md-mb-50">
+            <h4 class="widget-title">About</h4>
+            <ul class="site-map list-unstyled">
+              <li><a href="international.php"> International Presence</a></li>
+                    <li><a href="board-of-governors.php">	Board Governors</a></li>
+                    <li><a href="accreditation-details.php">	Accreditation & Certifications</a></li>
+                    <li><a href="code-of-ethics.php"> Policy</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-widget md-mb-50">
+            <h4 class="widget-title">Site Links</h4>
+            <ul class="site-map list-unstyled">
+             <li><a href="ehsaudit.php"> EHS AUDIT & Certification</a></li> 
+              <li><a href="where-to-study.php">Where To Study</a></li>
+              <li><a href="certificate-varification.php">Certificate Varification</a></li>
+                          <li><a href="contact-us.php">Contact Us</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-3 col-md-3 col-sm-6 col-xs-12 footer-widget">
+            <h4 class="widget-title">Address</h4>
+            <ul class="address-widget list-unstyled">
+              <li>
+                <i class="fa fa-map-marker"></i>
+                <div class="desc">International Board of Environmental Health & Safety, Inc.
+
+1818 W. Washington Street O’Fallon, IL 62269</div>
+              </li>
+              <li>
+                <i class="fa fa-volume-control-phone"></i>
+                <div class="desc">
+                  <a href="#">Phone : </br> 1 (618) 698 4832
+
+</a>
+                  
+                </div>
+                <!--<div class="desc">-->
+                  
+                <!--  <a href="#"><b>Development Office/DO</b> </br> +91 735 628 6525</a>-->
+                <!--</div>-->
+              </li>
+              <li>
+                <i class="fa fa-envelope-o"></i>
+                <div class="desc">
+                  <a href="mailto:info@iboehs.org">info@iboehs.org</a>
+                  <!--<a href="mailto:info@ibosd.org">chairman@ibosd.com</a>-->
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="container">
+        <div class="row y-middle">
+
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 md-mb-20">
+            <div class="copyright">
+              <p>Copyright © 2021 IBOEHS. All Rights Reserved</p>
+            </div>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
+            <ul class="footer-social list-inline">
+              <li><a href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
+              <li><a href="#" target="_blank"><i class="fa fa-twitter"></i></a></li>
+              <li><a href="#" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="#" target="_blank"><i class="fa fa-pinterest-p"></i></a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+  <a id="button"></a>
+
+  
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/script.js"></script>
+
+</body>
+
+</html>
